@@ -1,6 +1,6 @@
-netsh wlan show drivers
-netsh wlan set hostednetwork mode=allow ssid=phone key=n4ingaun9
-netsh wlan start hostednetwork
+#netsh wlan show drivers
+#netsh wlan set hostednetwork mode=allow ssid=phone key=n4ingaun9
+#netsh wlan start hostednetwork
 
-
+Testing Git
 103.255.174.75
