@@ -4,3 +4,5 @@
 
 Testing Git
 103.255.174.75
+
+conflictTwo
