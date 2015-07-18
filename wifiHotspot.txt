@@ -7,4 +7,4 @@ Testing Git
 
 conflict between master and testFix resolved
 
-b-three to merge to master
+b-three to merge to master\nFrom 1
